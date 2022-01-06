@@ -1,9 +1,8 @@
-<h1>Hi There👋</h1>
+<p>Hi There👋</p>
 <h1>I'm Moneer Ashraf</h1>
 
 
 
-<h1 align="left">About me!</h1>
 <p align="left" font >Like to build user friendly products and web applications with a specialization in MERN stack.</p>
 
 - 🔭 I’m currently working on **My existing Projects**
