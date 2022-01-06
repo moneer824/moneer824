@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moneer Ashraf</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moneer824&label=Profile%20views&color=0e75b6&style=flat" alt="moneer824" /> </p>
 
 
 <h1 align="left">About me!</h1>
