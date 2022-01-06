@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Moneer Ashraf</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moneer824&label=Profile%20views&color=0e75b6&style=flat" alt="moneer824" /> </p>
+
+
 <h1 align="left">About me!</h1>
 <p align="left" font >Like to build user friendly products and web applications with a specialization in MERN stack.</p>
 
@@ -11,8 +14,8 @@
 
 - 💬 Ask me about **Javascript,**
 
-- ⚡ Fun fact **The word engineer comes from a Latin word meaning ‘cleverness’.**
-[Uploading 68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d6f6e6565723832342673686f775f69636f6e733d74727565266c6f63616c653d656e.svg…]()
+- ⚡ Fun fact **The word engineer comes from a Latin word meaning cleverness.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,4 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moneer824&show_icons=true&locale=en" alt="moneer824" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moneer824&" alt="moneer824" /></p>
+
 
