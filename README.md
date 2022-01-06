@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Moneer Ashraf</h1>
+<h1>Hi There👋</h1>
+<h1>I'm Moneer Ashraf</h1>
 
 
 
